@@ -1,2 +1,2 @@
 # NewHperblog
-A incredible blog 
+An incredible blog 
